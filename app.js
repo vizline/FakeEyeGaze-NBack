@@ -1,5 +1,5 @@
 const app=document.querySelector('#app');
-const BUILD='2026.10.22.2';
+const BUILD='2026.10.22.3';
 const LETTERS=['F','K','L','R','S','Z'];
 const SOA=2.5;
 const posts=[

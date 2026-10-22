@@ -18,3 +18,4 @@
 .results{width:min(1120px,calc(100vw - 60px))}
 @media(max-height:860px){.post-wrap{transform:scale(.86);transform-origin:center}.shell{padding:8px}}
 @media(max-width:1100px){.post-text{font-size:1.65rem}.image-zone,.post-image{height:390px}}
+.image-zone{background:#eef1f4}.image-zone .post-image{object-fit:contain;background:#eef1f4}
